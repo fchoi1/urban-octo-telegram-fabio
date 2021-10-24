@@ -1,3 +1,4 @@
+/* All elements default parameters */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Parameters */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,10 +48,12 @@ body {
     text-decoration: none;
 }
 
+/* Default Paragraph parameters */
 p {
     font-size: 16px;
 }
 
+/* Hero CSS */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +63,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Content/Article Section Parameters */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,6 +87,7 @@ p {
     font-size: 36px;
 }
 
+/* Side bar Parameters */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +114,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer Parameters */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,4 +124,15 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+/* Utilities */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
