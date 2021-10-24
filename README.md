@@ -1,9 +1,11 @@
 # Urban Octo Telegram - Horiseon
+This website is to share the importances of SEO, and other tips for a successful website. 
 
-This code is used for challenge assignment 1
+# Horiseon Website
+Feel free to visit the site!
+[Horiseon](https://fchoi1.github.io/urban-octo-telegram/)
 
-## Search Engine Optimization
+## Sample Webstie
+[](/assets/images/Horiseon_snippet.PNG)
+\(This code is used for challenge assignment 1\)
 
-## Online Reputation Management
-
-## Social Mdeia Marketing
